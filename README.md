@@ -1,2 +1,2 @@
 # Podstawy-programowaniaC-_KS
-W zadaniach znajdują sie posegregowane tematy zadań na podfoldery.
+W zadaniach.zip znajdują sie posegregowane tematy zadań na podfoldery.
